@@ -15,6 +15,7 @@ namespace HW1b_Grade
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
