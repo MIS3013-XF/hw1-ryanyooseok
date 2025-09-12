@@ -1,6 +1,6 @@
 ﻿// HW1b Grade
 
-// Your Name:
+// Your Name:Ryan McCarthy
 // Did you seek help ? If yes, specify the helper or web link here: 
 
 using System;
